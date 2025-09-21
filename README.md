@@ -27,7 +27,7 @@ Web Framework and Interactive UI:
 Built using Flask for backend services.
 User-friendly chat interface for smooth interactions.
 Usage
-Clone the repository:
+Clone the repository:https://github.com/Riya-Marjum/Lawloom-legal-Chatbot.git
 
 git clone 
 Install dependencies:
